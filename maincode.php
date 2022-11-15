@@ -92,6 +92,7 @@
                             </div>
                         </div>
 						
+                        <p>Add this link above your script : <br><code>&#x3C;script src=&#x22;//https://code.jquery.com/jquery-3.6.1.min.js&#x22;&#x3E; &#x3C;/script&#x3E;</code></p>
                                
                         </div>
 					</section>
